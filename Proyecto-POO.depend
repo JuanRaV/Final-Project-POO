@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1683742084 source:c:\users\juanr_axzldpc\onedrive\documentos\4to semestre\poo\proyecto-poo\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<ctime>
+	<algorithm>
+
